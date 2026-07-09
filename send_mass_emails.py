@@ -150,20 +150,16 @@ if __name__ == "__main__":
 I hope you're doing well.
 
 I came across your profile and wanted to reach out regarding Software Engineering opportunities at {company}.
-I am currently working as a Junior Software Engineer at CronLabs Solutions, where I am building scalable healthcare application using React, Node.js, Prisma, SQL, Django, Celery, and RabbitMQ. 
-Currently, I am working on MyMedScreen, a DOT medical certification platform, where I develop scalable backend services, implement complex workflow automation, and build asynchronous processing using Django, Celery, RabbitMQ, React, and SQL.
-I also have experience building full-stack MERN applications and have solved 350+ DSA problems on LeetCode and GeeksforGeeks.
-If your team is hiring, I would be grateful if you could consider my profile or refer me to the appropriate hiring team. 
-I've attached my resume for your review. Thank you for your time, and I look forward to hearing from you.
+Write full email here containing all details.
 
 
 Best regards,
 
-Anuj Mishra
-+91-9229409080
-anujm8918@gmail.com
-GitHub: github.com/anuj8918
-LeetCode: leetcode.com/u/anujm8918
+{name}
+{phone_number}
+{email_address}
+GitHub: {github}
+LeetCode: {leetcode}
 """
     
     # 4. Path to your resume
